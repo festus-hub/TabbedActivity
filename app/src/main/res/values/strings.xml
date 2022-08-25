@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MytabbedActivity</string>
+    <string name="tab_text_1">Instagram</string>
+    <string name="tab_text_2">Facebook</string>
+    <string name="tab_text_3">Whatsapp</string>
+    <string name="tab_text_4">Twitter</string>
+</resources>
